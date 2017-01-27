@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
 
-        //Sets the delete button is not active
+        //Sets the delete mode to not be on
         deleteState=false;
 
 
